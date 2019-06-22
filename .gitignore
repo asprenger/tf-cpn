@@ -1,3 +1,6 @@
 build
 dist
 tfcpn.egg-info
+tfcpn/__pycache__
+tfcpn/nets/__pycache__
+tfcpn/tfflat/__pycache__
