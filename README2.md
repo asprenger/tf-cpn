@@ -2,6 +2,16 @@
 
 # Install
 
+## Install from Github
+
+Install using HTTP:
+
+    pip install git+https://github.com/asprenger/tf-cpn#egg=tfcpn
+
+Install using SSH:
+
+    pip install git+ssh://git@github.com/asprenger/tf-cpn#egg=tfcpn
+
 ## Create and install a Wheel package 
 
 Create a wheel distribution:
